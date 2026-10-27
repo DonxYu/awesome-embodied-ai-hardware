@@ -5,8 +5,6 @@
 本项目面向机器人算法工程师、硬件研发与选型负责人，结构化整理全球主流 **人形机器人、四足机器狗、协作机械臂** 的核心工程参数、公开售价/日租行情、**URDF / MuJoCo (MJCF) / Isaac (USD)** 仿真模型直链，以及主流 **VLA 具身大模型** 与 **开源数据集**。
 
 ## 快速导航
-- 📄 **[仓库内全量公开售价与日租表 (PRICING_DIRECTORY.md)](./PRICING_DIRECTORY.md)**
-- 📄 **[仓库内全量 URDF / MJCF / USD 仿真模型直链汇总 (URDF_SIM_ASSETS.md)](./URDF_SIM_ASSETS.md)**
 - [在线 31 项参数并排对比工具 (Compare Tool)](https://robotics.hellobike.com/compare/)
 - [163 款机器人公开售价与租赁价格表 (Pricing Directory)](https://robotics.hellobike.com/pricing/)
 - [官方 URDF / MJCF / USD 仿真资产索引 (Sim Assets)](https://robotics.hellobike.com/sim-assets/)
